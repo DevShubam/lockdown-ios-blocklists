@@ -1,0 +1,4 @@
+# This will break google search result ads.
+googleadservices.com
+ad.doubleclick.net
+adservice.google.com
